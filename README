@@ -1,0 +1,3 @@
+This is a simple default Kohana setup upon which normal websites can be built and extended.
+
+Its purpose is to provide a speedy installation of Kohana v3 that is ready to go without much configuration. This particular repo includes the Kohana Templating system as well as the port of Kohana 2's caching module. 
